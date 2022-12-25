@@ -4,9 +4,7 @@ title: Experience & Education & Skills
 ---
 
 
-<p align="center">
-### Experience
-</p>
+## <span style="color: green"> Some green text </span>
 
 Experience
 
