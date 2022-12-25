@@ -21,6 +21,7 @@ author: Zheren Baizhikova
 
 navbar-links:
   About Me: "aboutme"
+  Projects: "Projects"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
