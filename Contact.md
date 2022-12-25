@@ -3,6 +3,6 @@ layout: page
 title: Contact me
 ---
 
-- Mail: zbaizhik@cougarnet.uh.edu
+- **Mail:** zbaizhik@cougarnet.uh.edu
 
-- LinkedIn: https://www.linkedin.com/in/zheren-baizhikova/
+- **LinkedIn:** https://www.linkedin.com/in/zheren-baizhikova/
