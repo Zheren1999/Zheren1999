@@ -5,12 +5,7 @@ layout: template
 filename: Projects.md 
 ---
 
-My name is Zheren. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+My name is Zheren. 
 
 ### My story
 
