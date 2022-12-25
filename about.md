@@ -8,13 +8,23 @@ title: Experience & Education & Skills
 
 - **Research Assistant (2021-Current), University of Houston**
 
-I developed a software tool for predicting the likelihood of failure in irregular mechanical structures. I implemented computer code in Python to numerically model the mechanical structures (beam and shell elements). I tested and debugged the program and conducted mathematical analysis through numerical simulations.
+  - Developed a software tool for predicting the likelihood of failure in irregular mechanical structures. 
+
+  - Implemented computer code in Python to numerically model the mechanical structures (beam and shell elements). 
+
+  - Tested and debugged the program
+  
+  - Conducted mathematical analysis through numerical simulations.
 
 
 
 - **Research Assistant (2020-2021), International Tomography Center**
 
-I developed a custom software solution to solve an optimization problem related to molecule structure. I collaborated with domain experts to design experiments that generated valuable data for optimization software. I utilized EasySpin (Matlab toolbox) and Pandas to handle and analyze experimental data.
+  - Developed a custom software solution to solve an optimization problem related to molecule structure. 
+
+  - Collaborated with domain experts to design experiments that generated valuable data for optimization software. 
+
+  - Utilized EasySpin (Matlab toolbox) and Pandas to handle and analyze experimental data.
 
 
 
