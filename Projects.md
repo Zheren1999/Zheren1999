@@ -1,10 +1,8 @@
 ---
-
+layout: page
 title: Projects
-layout: template
-filename: Projects.md 
+subtitle: Why you'd want to go on a date with me
 ---
-
 My name is Zheren. 
 
 ### My story
