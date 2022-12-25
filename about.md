@@ -6,7 +6,9 @@ title: Experience & Education & Skills
 
 <p align="center">
 ### Experience
-</p>Experience
+</p>
+
+Experience
 
 - **Research Assistant (2021-Current), University of Houston**
 
