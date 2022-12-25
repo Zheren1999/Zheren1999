@@ -1,7 +1,8 @@
 ---
-layout: page
+
 title: Projects
-subtitle: Why you'd want to go on a date with me
+layout: template
+filename: Projects.md 
 ---
 
 My name is Zheren. I have the following qualities:
