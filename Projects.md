@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Projects
-subtitle: Why you'd want to go on a date with me
 ---
 
 
@@ -15,7 +14,7 @@ This study investigates the statistics of the buckling load of a beam with a ran
 The finite–difference scheme converts the governing differential equation into a system of nonlinear algebraic equations, which I solved utilizing the Newton–Raphson technique. The beam is discretized into 10,000 elements, sufficient for capturing the spatial correlation of the initial imperfection profile and estimating the displacement profile’s second and fourth-order spatial derivatives. Using 1000 Monte Carlo simulations, I calculated the mean and standard deviation of the buckling load for various beam lengths. 
 
 **Results:**
-The findings of the study are presented in this paper:
+The findings of the study are presented in this paper: [paper] (https://asmedigitalcollection.asme.org/appliedmechanics/article/90/1/011003/1146780/Stochastic-Buckling-of-Geometrically-Imperfect?casa_token=YuT-Z9dUPAYAAAAA:YOMHURRv2UYZYIeFwAdMiL9LXZOcZHtXH2Zlz-VjTQB1KCxJcHHyg5dURvTpuin2H-22T10k)
 
 
 
@@ -46,7 +45,7 @@ I used the SciPy library in Python to obtain the general solution to the ODE equ
 I applied the optimization criteria to generate a contour plot for a given material property and distributed load.
 
 **Result:**
-GitHub repository of my work can be found here:
+GitHub repository of my work can be found [here] (https://github.com/Zheren1999/optimization-the-cross-sectional-geometry-of-a-doubly-clamped-beam-)
 
 
 
@@ -59,5 +58,5 @@ Determine the numerical solution of the Hopf equation, which describes the one�
 I employed Newton‘s method to determine the root of the Hopf equation. I utilized two numerical methods (Lax-Friedrichs and MacCormack schemes) to solve the equation with an initial exponential condition function
 
 **Result:**
-GitHub repository of my work can be found here:
+GitHub repository of my work can be found [here] (https://github.com/Zheren1999/investigation-of-the-Hopf-equation-)
 
