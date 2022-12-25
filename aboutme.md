@@ -1,17 +1,38 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Experience & Education & Skills
 ---
+### Experience
 
-My name is Zheren. I have the following qualities:
+## Research Assistant (2021-Current), University of Houston
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I developed a computational procedure for numerical modeling and stochastic analysis of buckling imperfect structures such as columns and shells. I was in charge of programming, debugging, and testing the program to estimate the buckling response of these structures.
 
-What else do you need?
+## Research Assistant (2020-2021), International Tomography Center
 
-### My story
+I was responsible for sampling and measurements of fullerene molecules. I utilized MATLAB and EasySpin toolbox to simulate, model and study fullerene molecules.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
-vgvhggchg
+### Education
+
+| Education | GPA| University | Year|
+| --------------- | --------------- | --------------- | --------------- |
+| PhD in Civil Engineering | 4.00/4.00 | University of Houston| 2021-In Progress
+| B.E. in Physics | 4.86/5.00 | Novosibirsk State University | 2017-2021|
+
+### Skills
+
+- Python
+- Matlab
+- C/C++
+- Abaqus
+- Comsol
+
+### Relevant Courses
+
+- Introduction to Algorithms and Data Structures in C/C++ and Python
+- Numerical Methods in Engineering
+- Computational Model of Materials
+- Computational Mechanics
+- Advanced Mechanics
+- Finite Element Method
+- Continuum Mechanics
