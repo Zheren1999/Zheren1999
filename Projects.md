@@ -65,11 +65,14 @@ GitHub repository of my work can be found [here](https://github.com/Zheren1999/o
 
 
 **Objective:**
-Determine the numerical solution of the Hopf equation, which describes the one–dimensional gas dynamics equation with nonzero pressure. I take into account the overturning effect which can lead to the formation of shock waves.
+The goal of this project is to calculate the numerical solution for the Hopf equation, which models a one-dimensional gas with non-zero pressure that takes into account the overturning effect that can cause the formation of shock waves.
 
 **Method:**
-I employed Newton‘s method to determine the root of the Hopf equation. I utilized two numerical methods (Lax-Friedrichs and MacCormack schemes) to solve the equation with an initial exponential condition function
+- Implemented the computer code in Python to solve the equation using numerical method (Newton's method).
+- Conducted mathematical calculations to get the analytical solution to compare with numerical.
+- Analyzed the physical concept of the equation.
+
 
 **Result:**
-GitHub repository of my work can be found [here] (https://github.com/Zheren1999/investigation-of-the-Hopf-equation-)
+GitHub repository of my work can be found [here](https://github.com/Zheren1999/investigation-of-the-Hopf-equation-). 
 
