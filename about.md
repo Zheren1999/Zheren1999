@@ -4,9 +4,9 @@ title: Experience & Education & Skills
 ---
 
 
-## <span style="color: green"> Some green text </span>
+## <span style="color: blue"> Experience </span>
 
-Experience
+
 
 - **Research Assistant (2021-Current), University of Houston**
 
@@ -31,7 +31,9 @@ Experience
 
 
 
-### Education
+## <span style="color: blue"> Education </span>
+
+
 
 | Education | GPA| University | Year|
 | --------------- | --------------- | --------------- | --------------- |
@@ -40,7 +42,7 @@ Experience
 
 
 
-### Skills
+## <span style="color: blue"> Skills </span>
 
 - Python
 - Matlab
@@ -50,7 +52,7 @@ Experience
 
 
 
-### Relevant Courses
+## <span style="color: blue"> Relevant Courses </span>
 
 - Introduction to Algorithms and Data Structures in C/C++ and Python
 - Numerical Methods in Engineering
