@@ -3,7 +3,10 @@ layout: page
 title: Experience & Education & Skills
 ---
 
-<h2 align="center">Experience</h2>
+
+## <span style="color: blue"> Experience </span>
+
+
 
 - **Research Assistant (2021-Current), University of Houston**
 
@@ -27,7 +30,8 @@ title: Experience & Education & Skills
 
 
 
-<h2 align="center">Education</h2>
+
+## <span style="color: blue"> Education </span>
 
 
 
@@ -38,7 +42,8 @@ title: Experience & Education & Skills
 
 
 
-<h2 align="center">Skills</h2>
+## <span style="color: blue"> Skills </span>
+
 
 - Python
 - Matlab
@@ -47,7 +52,8 @@ title: Experience & Education & Skills
 - Comsol
 
 
-<h2 align="center">Relevant Courses</h2>
+
+## <span style="color: blue"> Relevant Courses </span>
 
 - Introduction to Algorithms and Data Structures in C/C++ and Python
 - Numerical Methods in Engineering
