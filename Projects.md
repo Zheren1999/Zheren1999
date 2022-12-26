@@ -17,7 +17,7 @@ This study investigates the statistics of the buckling load of a beam with a ran
 The finite–difference scheme converts the governing differential equation into a system of nonlinear algebraic equations, which I solved utilizing the Newton–Raphson technique. The beam is discretized into 10,000 elements, sufficient for capturing the spatial correlation of the initial imperfection profile and estimating the displacement profile’s second and fourth-order spatial derivatives. Using 1000 Monte Carlo simulations, I calculated the mean and standard deviation of the buckling load for various beam lengths. 
 
 **Results:**
-The findings of the study are presented in this paper: [paper] (https://asmedigitalcollection.asme.org/appliedmechanics/article/90/1/011003/1146780/Stochastic-Buckling-of-Geometrically-Imperfect?casa_token=YuT-Z9dUPAYAAAAA:YOMHURRv2UYZYIeFwAdMiL9LXZOcZHtXH2Zlz-VjTQB1KCxJcHHyg5dURvTpuin2H-22T10k)
+The findings of the study are presented in this [paper](https://asmedigitalcollection.asme.org/appliedmechanics/article/90/1/011003/1146780/Stochastic-Buckling-of-Geometrically-Imperfect). 
 
 
 <h2 align="center">Dimensionality reduction method using the ISOMAP method</h2>
