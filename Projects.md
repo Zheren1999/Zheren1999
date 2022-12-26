@@ -40,20 +40,22 @@ The ISOMAP technique has been implemented to create random fields across the irr
 
 
 
-<h2 align="center">Optimization of the Cross-Sectional Geometry of a Double - Clamped Beam</h2>
+<h2 align="center">Designing a lightweight double-clamped beam with an allowable deflection</h2>
 
 ![image](https://user-images.githubusercontent.com/89813720/209562839-1231e1c1-78dd-4d27-a594-5b0ed8e92ba4.png)
 
 
 **Objective:**
-For this project, I optimized the cross-sectional area of a double-clamped beam with a distributed load, aiming to construct and design a minimum-mass beam that meets economic criteria.
+The objective of this project is to optimize the cross-sectional area of a double-clamped beam with a distributed load, aiming to design a minimum-mass beam that meets economic criteria with allowable deflection.
 
 **Method:**
-I used the SciPy library in Python to obtain the general solution to the ODE equation for a double-clamped beam.
-I applied the optimization criteria to generate a contour plot for a given material property and distributed load.
+- Employed the SciPy library in Python to determine the deflection for a beam.
+- Applied the design criteria to optimize the geometry of a beam.
+- Developed the correlation between the dimensions of the beam's cross-section to control the allowable deflection.
+
 
 **Result:**
-GitHub repository of my work can be found [here] (https://github.com/Zheren1999/optimization-the-cross-sectional-geometry-of-a-doubly-clamped-beam-)
+GitHub repository of my work can be found [here](https://github.com/Zheren1999/optimization-the-cross-sectional-geometry-of-a-doubly-clamped-beam-).
 
 
 
