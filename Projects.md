@@ -14,7 +14,11 @@ title: Projects
 This study investigates the statistics of the buckling load of a beam with a random initial imperfection profile that rests on a nonlinear elastic foundation using the numerical method. 
 
 **Method:** 
-The finite–difference scheme converts the governing differential equation into a system of nonlinear algebraic equations, which I solved utilizing the Newton–Raphson technique. The beam is discretized into 10,000 elements, sufficient for capturing the spatial correlation of the initial imperfection profile and estimating the displacement profile’s second and fourth-order spatial derivatives. Using 1000 Monte Carlo simulations, I calculated the mean and standard deviation of the buckling load for various beam lengths. 
+
+- Implemented computer code in Python to model the imperfect beam using the numerical technique (Newton–Raphson technique).
+- Conducted mathematical analysis through numerical simulations.
+- Employed the probabilistic analysis to estimate the stochastic values (mean value and standard deviation) of the buckling load.
+
 
 **Results:**
 The findings of the study are presented in this [paper](https://asmedigitalcollection.asme.org/appliedmechanics/article/90/1/011003/1146780/Stochastic-Buckling-of-Geometrically-Imperfect). 
