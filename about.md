@@ -4,7 +4,7 @@ title: Experience & Education & Skills
 ---
 
 
-## <span style="color: blue"> Experience </span>
+<h2 align="center">Experience</h2>
 
 
 
@@ -31,7 +31,7 @@ title: Experience & Education & Skills
 
 
 
-## <span style="color: blue"> Education </span>
+<h2 align="center">Education</h2>
 
 
 
@@ -41,8 +41,7 @@ title: Experience & Education & Skills
 | B.S. in Physics | 4.86/5.00 | Novosibirsk State University | 2017-2021|
 
 
-
-## <span style="color: blue"> Skills </span>
+<h2 align="center">Skills</h2>
 
 
 - Python
@@ -52,8 +51,7 @@ title: Experience & Education & Skills
 - Comsol
 
 
-
-## <span style="color: blue"> Relevant Courses </span>
+<h2 align="center">Relevant Courses</h2>
 
 - Introduction to Algorithms and Data Structures in C/C++ and Python
 - Numerical Methods in Engineering
