@@ -20,23 +20,22 @@ The finite–difference scheme converts the governing differential equation into
 The findings of the study are presented in this paper: [paper] (https://asmedigitalcollection.asme.org/appliedmechanics/article/90/1/011003/1146780/Stochastic-Buckling-of-Geometrically-Imperfect?casa_token=YuT-Z9dUPAYAAAAA:YOMHURRv2UYZYIeFwAdMiL9LXZOcZHtXH2Zlz-VjTQB1KCxJcHHyg5dURvTpuin2H-22T10k)
 
 
-<h2 align="center">Representation the random fields over the manifold using ISOMAP method</h2>
+<h2 align="center">Dimensionality reduction method using the ISOMAP method</h2>
 
 ![image](https://user-images.githubusercontent.com/89813720/209562750-46deeace-5850-40ed-b386-a7065bc43f82.png)
 
 
 **Objective:**
-The use of shell structures is impeded by their sensitivity to geometry imperfections, leading to different buckling loads. Attempts at modeling the shell structures under loads often consider the geometries’ randomness. Generating random fields over irregular geometries, however, can be a challenge. The Isometric Feature Mapping Method (ISOMAP) may offer a solution by providing a way to map points from the manifold onto 2D Euclidian space. Through this, it is possible to maintain the geodesic distance between the mapped points in 2D Euclidian space and the original points on the manifold.
+This project aims to develop a technique that reduces the dimension of the dataset by preserving the geodesic distance between points. The method provides a way to map points from a 3D manifold into 2D Euclidian space.
 
 **Method:**
-I employed the technique laid out in the paper to execute this method.
+- Developed the computer code to produce the neighborhood graph for a dataset.
+- Implemented Dijkstra's shortest path algorithm of a graph.
+- Used mathematical analysis through numerical simulations to reduce the dimensionality of a dataset by preserving the geodesic distance between the points.
 
-[Feng, De‐Cheng, Yan‐Ping Liang, Xiaodan Ren, and Jie Li. “Random fields representation over manifolds via isometric feature mapping‐based dimension reduction.” Computer‐Aided Civil and Infrastructure Engineering 37, no. 5 (2022): 593-611.]
-
-The process included forming the neighborhood graph for each point in the  manifold, determining the geodesic distance with Dijkstra‘s algorithm, and creating the lower dimensional embedding.
 
 **Results:**
-The ISOMAP technique has been implemented to create random fields across the irregular domains of the hemisphere, swiss roll, C-shaped roll, and hypersurface. Results from the numerical study show that the ISOMAP approach effectively produces random fields on manifold geometries.
+The effectiveness of the ISOMAP approach was analyzed using the hemispherical, swiss roll, C-shaped roll, and hypersurface manifolds. The numerical investigation demonstrated that the procedure successfully transformed points from 3D space into 2D space.
 
 
 
